@@ -22,4 +22,4 @@
 - [ ] Frequency tables
 - [ ] Contingency tables
 - [ ] Categorical visualizations
-- [ ] Interpreting business insights
+- [ ] Interpreting business insights 
