@@ -16,7 +16,7 @@
 - `scipy`
 
 
-## Step1
+## Step1 
 
 - [ ] Categorical descriptive statistics
 - [ ] Frequency tables
